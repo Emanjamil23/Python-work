@@ -1,0 +1,1 @@
+print("Eman is a good girl\nshe is too \"beautiful\"\nshe is too \"kind\"")
